@@ -1,0 +1,26 @@
+body {
+    background-image: url("hitam.jpeg");
+}
+
+h1 {
+color: rgb(98, 186, 50);
+text-align: center;
+}
+
+h2 {
+color: rgb(98, 186, 50);
+text-align: center;
+font-size: 10px;
+}
+
+h3 {
+font-size: 100px;
+text-align: center;
+}
+
+p {
+color: rgb(0, 0, 0);
+font-family: verdana;
+font-size: 10px;
+text-align: left;
+}
